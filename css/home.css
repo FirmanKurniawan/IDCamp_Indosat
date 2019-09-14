@@ -1,0 +1,20 @@
+<style>
+* {box-sizing: border-box}
+
+.container {
+  width: 100%;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.php-skill {width: 85%; background-color: #808080;}
+.html {width: 80%; background-color: #4CAF50;}
+.js {width: 40%; background-color: #f44336;}
+.css {width: 30%; background-color: #2196F3;}
+
+</style>
